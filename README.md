@@ -108,3 +108,12 @@ Built with creativity, experimentation, and modern web technologies.
 
 **Canva Pro – Your creativity, your canvas.**
 
+## 👩‍💻 Author
+
+**Amruta Gotmare**
+
+B.Tech – Artificial Intelligence
+G. H. Raisoni College of Engineering, Nagpur
+
+[GitHub](https://github.com/Amruta01092006) | [LinkedIn](www.linkedin.com/in/amruta-gotmare-ai)
+
