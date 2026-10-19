@@ -115,5 +115,5 @@ Built with creativity, experimentation, and modern web technologies.
 B.Tech – Artificial Intelligence
 G. H. Raisoni College of Engineering, Nagpur
 
-[GitHub](https://github.com/Amruta01092006) | [LinkedIn](www.linkedin.com/in/amruta-gotmare-ai)
+[GitHub](https://github.com/Amruta01092006) | [LinkedIn](in/amruta-gotmare-ai)
 
